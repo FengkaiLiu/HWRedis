@@ -1,0 +1,31 @@
+{
+  "name": "hwredis",
+  "version": "1.0.0",
+  "description": "homework for redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FengkaiLiu/HWRedis.git"
+  },
+  "keywords": [
+    "Redis"
+  ],
+  "author": "FengkaiLiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FengkaiLiu/HWRedis/issues"
+  },
+  "homepage": "https://github.com/FengkaiLiu/HWRedis#readme",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "redis": "^4.6.13"
+  }
+}
